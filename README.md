@@ -57,7 +57,7 @@ Downloads for Archive files are capped at MEGA.
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		N/A|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           N/A|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		N/A|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		[Download](https://mega.nz/file/2J1TVTYb#LyojUFmODVtAwWswdWH0b75giGVFq_clv7ANu1Tnc3c)|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -119,7 +119,7 @@ Downloads for Archive files are capped at MEGA.
 | 9.20-CL-N/A	                  | 06-06-19         	 | UE4.23            	    |		N/A|
 | 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		N/A|
 | 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		N/A|
-| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://mega.nz/file/6VMyzSID#42RM5vYvwnVAtvWKpCkREF4S-1go_hXEnzE7M_mU1PU|
+| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		[Download](https://mega.nz/file/6VMyzSID#42RM5vYvwnVAtvWKpCkREF4S-1go_hXEnzE7M_mU1PU)|
 | 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		N/A|
 
 # Season X/10
@@ -147,7 +147,7 @@ Downloads for Archive files are capped at MEGA.
 | 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		N/A|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		N/A|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		[Download](https://mega.nz/folder/bV1w1CBJ#gfwQRIrigw58JijT7apd_w)|
 | 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		N/A|
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		N/A|
@@ -178,7 +178,7 @@ Downloads for Archive files are capped at MEGA.
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
 | 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		N/A|
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
-| 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
+| 15.50-CL-15526472                | 02-03-21         	 | UE4.26            	    |		[Download](https://mega.nz/folder/SgYhVaqY#b2ZYiTXJZRqtMYR4vVyhzw)|
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -213,9 +213,19 @@ Downloads for Archive files are capped at MEGA.
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 N/A|
+| 19.00-CL-18049531	                | 05-12-21         	 | UE5.0            	    |		N/A|
+| 19.01-CL-18380290	                | 14-12-21         	 | UE5.0            	    |		N/A|
+| 19.10-CL-18675304               | 18-01-22         	 | UE5.0            	    |		N/A|
+| 19.20-CL-18775446	                | 01-02-22        	 | UE5.0           	    |		N/A|
+| 19.30-CL-19027703	                | 14-02-22         	 | UE5.0          	    |	 [Download](https://mega.nz/folder/rJthhJ4b#_PgNjZBeXOY1V5-l8U-kyQ)|
+| 19.40-CL-19215531	                | 01-03-22         	 | UE5.0           	    |		N/A|
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 N/A|
+| 20.40-CL-20244966	                | 17-05-22         	 | UE5.1           	    |	 N/A|
+
+# Season 39
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 39.00-CL-48444883 | 29-11-25         	 |   N/A         	    |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)|
