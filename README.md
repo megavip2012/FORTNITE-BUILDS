@@ -1,5 +1,7 @@
 # Fortnite Builds
-The largest Fortnite Builds Archive maintained by simplyblk. 
+The largest Fortnite Builds Archive maintained by megavip2012
+
+Thanks to simplybk for helping with the design. 
 
 ## Usage & Other information.
 
