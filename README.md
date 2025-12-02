@@ -225,7 +225,16 @@ Downloads for Archive files are capped at MEGA.
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 20.40-CL-20244966	                | 17-05-22         	 | UE5.1           	    |	 N/A|
+| 20.00-CL-19381079	                | N/A         	 | N/A               	    |	 N/A|
+| 20.00-CL-19458861	                | N/A         	 | N/A               	    |		N/A|
+| 20.00-CL-19532288	                | N/A         	 | N/A               	    |		N/A|
+| 20.10-CL-19598943	                | N/A         	 | N/A               	    |		N/A|
+| 20.20-CL-19751212	                | N/A         	 | N/A               	    |		N/A|
+| 20.20-CL-19896998	                | N/A         	 | N/A           	        |		N/A|
+| 20.30-CL-19950687	                | N/A         	 | N/A               	    |		N/A|
+| 20.30-CL-20037261                 | N/A        	  | N/A               	    |		N/A|
+| 20.40-CL-20175294	                | N/A         	 | N/A             	      |	 N/A|
+| 20.40-CL-20244966	                | 17-05-22      | UE5.1             	    |	 N/A|
 
 # Season 35
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
