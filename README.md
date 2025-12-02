@@ -248,7 +248,7 @@ Downloads for Archive files are capped at MEGA.
 | 38.00-CL-47291259	             | N/A         	     | N/A           |	N/A|
 | 38.00-CL-47722112	             | N/A         	     | N/A            |	N/A|
 | 38.10-CL-47888945	             | N/A         	     | N/A            |	N/A|
-| 38.11-CL-48390828	                 | N/A         	     | N/A            |		N/A|
+| 38.11-CL-48390828	                 | N/A         	     | N/A            |		[Download](https://mega.nz/folder/S1QgzKCT#I3KXVXFedK92bu6skQIBzQ)|
 
 # Season 39
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
