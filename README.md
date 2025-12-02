@@ -71,29 +71,29 @@ Downloads for Archive files are capped at MEGA.
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://cdn.fortnitearchive.com/6.00.rar|
+| 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		N/A|
 | 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		N/A |
-| 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://cdn.fortnitearchive.com/6.01.rar|
-| 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://cdn.fortnitearchive.com/6.1.1.rar|
-| 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://cdn.fortnitearchive.com/6.02.rar|
-| 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           https://cdn.fortnitearchive.com/6.2.1.rar|
-| 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://cdn.fortnitearchive.com/6.10.rar|
-| 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://cdn.fortnitearchive.com/6.10.1.rar|
-| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://cdn.fortnitearchive.com/6.10.2.rar|
+| 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           N/A|
+| 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		N/A|
+| 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		N/A|
+| 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           N/A|
+| 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		N/A|
+| 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		N/A|
+| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		N/A|
 | 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		N/A |
-| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://cdn.fortnitearchive.com/6.21.rar|
-| 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://cdn.fortnitearchive.com/6.22.rar|
-| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://cdn.fortnitearchive.com/6.30.rar|
-| 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://cdn.fortnitearchive.com/6.31.rar|
+| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		N/A|
+| 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		N/A|
+| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		N/A|
+| 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		N/A|
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://cdn.fortnitearchive.com/7.00.rar|
-| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://cdn.fortnitearchive.com/7.10.rar|
-| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://cdn.fortnitearchive.com/7.20.rar|
-| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://cdn.fortnitearchive.com/7.30.zip|
-| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://cdn.fortnitearchive.com/7.40.rar|
+| 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		N/A|
+| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		N/A|
+| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		N/A|
+| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		N/A|
+| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		N/A|
 
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
