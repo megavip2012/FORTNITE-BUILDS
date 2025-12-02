@@ -1,21 +1,9 @@
 # Fortnite Builds
 The largest Fortnite Builds Archive maintained by simplyblk. 
 
-## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
-
 ## Usage & Other information.
 
-Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds)
-
-If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ info@fortnitearchive.com
-
-Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out our website [here!](https://fortnitearchive.com/)
-
-If you decide to use this for a project, you must provide credit of this GitHub repo.
-
-Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
-
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
+Downloads for Archive files are capped at MEGA.
 
 # Downloads
 
@@ -110,74 +98,74 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		https://cdn.fortnitearchive.com/8.00.zip|
+| 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		N/A|
 | 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		N/A|
 | 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		N/A|
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
-| 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fortnitearchive.com/8.20.rar|
-| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/8.30.rar|
-| 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/8.40.zip|
-| 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fortnitearchive.com/8.50.zip|
-| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/8.51.rar|
+| 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		N/A|
+| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		N/A|
+| 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		N/A|
+| 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		N/A|
+| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		N/A|
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 9.00-CL-6337466	              | 09-05-19        	  | UE4.23            	    |		https://cdn.fortnitearchive.com/9.00.zip|
-| 9.01-CL-6428087	              | 15-05-19        	  | UE4.23            	    |		https://cdn.fortnitearchive.com/9.01.zip|
-| 9.10-CL-6639283	              | 19-05-19       	   | UE4.23            	    |		https://cdn.fortnitearchive.com/9.10.rar|
+| 9.00-CL-6337466	              | 09-05-19        	  | UE4.23            	    |		N/A|
+| 9.01-CL-6428087	              | 15-05-19        	  | UE4.23            	    |		N/A|
+| 9.10-CL-6639283	              | 19-05-19       	   | UE4.23            	    |		N/A|
 | 9.20-CL-N/A	                  | 06-06-19         	 | UE4.23            	    |		N/A|
-| 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/9.21.zip|
-| 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/9.30.zip|
-| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/9.40.zip|
-| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://cdn.fortnitearchive.com/9.41.rar|
+| 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		N/A|
+| 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		N/A|
+| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		N/A|
+| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		N/A|
 
 # Season X/10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://cdn.fortnitearchive.com/10.00.zip|
-| 10.10-CL-7955722	             | 10-08-19         	     | UE4.23            |	https://cdn.fortnitearchive.com/10.10.zip|
-| 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	https://cdn.fortnitearchive.com/10.20.zip|
+| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	N/A|
+| 10.10-CL-7955722	             | 10-08-19         	     | UE4.23            |	N/A|
+| 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	N/A|
 | 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23            |		N/A|
-| 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	https://cdn.fortnitearchive.com/10.31.zip|
-| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://cdn.fortnitearchive.com/10.40.rar|
+| 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	N/A|
+| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		N/A|
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- |
-| 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 https://cdn.fortnitearchive.com/11.00.zip|
-| 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 https://cdn.fortnitearchive.com/11.31.rar|
+| 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 N/A|
+| 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 N/A|
  
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fortnitearchive.com/12.00.rar|
+| 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		N/A|
 | 12.10-CL-N/A	                | 03-03-20         	 | UE4.24           	    |		N/A|
 | 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		N/A|
-| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://cdn.fortnitearchive.com/12.21.zip|
+| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		N/A|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fortnitearchive.com/Fortnite%2012.41.zip|
-| 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fortnitearchive.com/12.50.zip|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		N/A|
+| 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		N/A|
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
-| 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fortnitearchive.com/12.61.zip|
+| 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		N/A|
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fortnitearchive.com/13.00.rar|
-| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	https://cdn.fortnitearchive.com/13.40.zip|
+| 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		N/A|
+| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	N/A|
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fortnitearchive.com/14.00.rar|
+| 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		N/A|
 | 14.10-CL-N/A	                | 10-10-20         	 | UE4.26            	    |		N/A|
 | 14.20-CL-N/A	                | 23-10-20         	 | UE4.26            	    |		N/A|
 | 14.30-CL-N/A	                | 13-10-20         	 | UE4.26            	    |		N/A|
-| 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		https://cdn.fortnitearchive.com/14.40.rar|
+| 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		N/A|
 | 14.50-CL-N/A	                | 03-11-20         	 | UE4.26            	    |		N/A|
-| 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://cdn.fortnitearchive.com/14.60.rar|
+| 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		N/A|
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -186,7 +174,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 15.10-CL-N/A	                | 15-12-20         	 | UE4.26            	    |		N/A|
 | 15.20-CL-N/A	                | 13-01-21         	 | UE4.26            	    |		N/A|
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
-| 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		https://cdn.fortnitearchive.com/15.30.rar|
+| 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		N/A|
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
 | 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
@@ -197,7 +185,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 16.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 16.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
 | 16.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
-| 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://cdn.fortnitearchive.com/16.40.rar|
+| 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
 # Season 17
@@ -206,9 +194,9 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
 | 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 17.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
-| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		https://cdn.fortnitearchive.com/17.30.zip|
+| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
-| 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://cdn.fortnitearchive.com/17.50.zip|
+| 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -218,14 +206,14 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 18.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
 | 18.21-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
 | 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
-| 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://cdn.fortnitearchive.com/18.40.zip|
+| 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fortnitearchive.com/19.10.rar|
+| 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 N/A|
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fortnitearchive.com/20.40.zip|
+| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 N/A|
