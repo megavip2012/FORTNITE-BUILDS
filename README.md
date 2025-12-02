@@ -119,7 +119,7 @@ Downloads for Archive files are capped at MEGA.
 | 9.20-CL-N/A	                  | 06-06-19         	 | UE4.23            	    |		N/A|
 | 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		N/A|
 | 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		N/A|
-| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		N/A|
+| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://mega.nz/file/6VMyzSID#42RM5vYvwnVAtvWKpCkREF4S-1go_hXEnzE7M_mU1PU|
 | 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		N/A|
 
 # Season X/10
