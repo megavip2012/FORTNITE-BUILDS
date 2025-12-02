@@ -3,6 +3,8 @@ The largest Fortnite Builds Archive maintained by megavip2012
 
 Thanks to simplybk for helping with the design. 
 
+If you want a better inteface for the downloads, go to [our website](https://sites.google.com/view/allfortnitegameversions/p%C3%A1gina-inicial)!
+
 ## Usage & Other information.
 
 Downloads for Archive files are capped at MEGA.
