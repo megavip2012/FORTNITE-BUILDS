@@ -288,7 +288,7 @@ Downloads for Archive files are capped at MEGA.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 27.00-CL-29072304	            | 03-11-23         	     | UE5.4                    |	N/A|
 | 27.10-CL-29552510             | 16-11-23               | UE5.4                    |	N/A|
-| 27.11-CL-29739262	            | 21-11-23               | UE5.4                    |	N/A|
+| 27.11-CL-29739262	            | 21-11-23               | UE5.4                    |	[Download](https://mega.nz/folder/WJUhRTiQ#z5JX0TCI7yZiRG8TWrfB0g)|
 
 # Season 28
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
