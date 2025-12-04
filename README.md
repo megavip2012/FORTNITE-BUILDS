@@ -16,7 +16,7 @@ Downloads for Archive files are capped at MEGA.
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186              	|  28-02-16	          	 | UE4.12        	          |	N/A |
+| OT6.5-CL-2870186              	|  28-02-16	          	 | UE4.12        	          |	 |
 | Cert-CL-3532353                |  20-07-17             | UE4.16                   | N/A |
 | 1.2-CL-3541083               	 |  21-07-17      	      | UE4.16	                  | N/A |
 
@@ -61,18 +61,18 @@ Downloads for Archive files are capped at MEGA.
 | 4.2-CL-4072250          	| 16-05-18	 	      | UE4.20                          	   | N/A|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20          	                   | N/A|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20         	                    |	N/A |
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20         	                    |		[Download](https://mega.nz/file/2J1TVTYb#LyojUFmODVtAwWswdWH0b75giGVFq_clv7ANu1Tnc3c)|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20         	                    | [Download](https://mega.nz/file/2J1TVTYb#LyojUFmODVtAwWswdWH0b75giGVFq_clv7ANu1Tnc3c)|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21-4204761	          |		N/A|
-| 5.00-CL-4214610	             	| 12-07-18       	       | UE4.21-4214610	          |		N/A|
-| 5.10-CL-4240749              	| 25-07-18       	       | UE4.21-4240749	          |		N/A|
-| 5.21-CL-4288479              	| 15-08-18       	       | UE4.21-4288479 	         |  N/A|
-| 5.30-CL-4305896              	| 23-08-18       	       | UE4.21-4305896	          |  N/A|
-| 5.40-CL-4352937         	     | 05-09-18       	       | UE4.21-4352937	          |		N/A|
-| 5.41-CL-4363240              	| 19-09-18            	  | UE4.21-4363240	          |		N/A|
+| 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21        	          |		N/A|
+| 5.00-CL-4214610	             	| 12-07-18       	       | UE4.21        	          |		N/A|
+| 5.10-CL-4240749              	| 25-07-18       	       | UE4.21        	          |		N/A|
+| 5.21-CL-4288479              	| 15-08-18       	       | UE4.21         	         |  N/A|
+| 5.30-CL-4305896              	| 23-08-18       	       | UE4.21        	          |  N/A|
+| 5.40-CL-4352937         	     | 05-09-18       	       | UE4.21        	          |		N/A|
+| 5.41-CL-4363240              	| 19-09-18            	  | UE4.21        	          |		N/A|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -153,16 +153,16 @@ Downloads for Archive files are capped at MEGA.
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 12.00-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.10-CL-N/A	                | N/A         	 | N/A           	     |		N/A|
-| 12.20-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.21-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.30-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.40-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.41-CL-12905909	           | 21-04-20      | UE4.24         	    |		[Download](https://mega.nz/folder/bV1w1CBJ#gfwQRIrigw58JijT7apd_w)|
-| 12.50-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.60-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 12.61-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
+| 12.00-CL-11556442	            | 20-02-20             	 | UE4.24            	      |		N/A|
+| 12.10-CL-11883027	            | 15-03-20             	 | UE4.24             	     |		N/A|
+| 12.20-CL-12236980	            | 17-03-20             	 | UE4.24              	    |		N/A|
+| 12.21-CL-12353830	            | 24-03-20               | UE4.24              	    |		N/A|
+| 12.30-CL-N/A	                 | N/A                  	 | N/A                 	    |		N/A|
+| 12.40-CL-12837456	            | 15-04-20             	 | UE4.24         	         |		N/A|
+| 12.41-CL-12905909	            | 21-04-20               | UE4.24              	    |		[Download](https://mega.nz/folder/bV1w1CBJ#gfwQRIrigw58JijT7apd_w)|
+| 12.50-CL-13137020	            | 29-04-20             	 | UE4.24              	    |		N/A|
+| 12.60-CL-N/A	                 | 20-05-20             	 | UE4.24            	      |		N/A|
+| 12.61-CL-13498980	            | 26-05-20             	 | UE4.24         	         |		N/A|
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -356,3 +356,42 @@ Downloads for Archive files are capped at MEGA.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)|
 | 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |	 [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)|
+
+
+# EVENTS
+v3.6 - It's raining meteors | Play using Rift | Play using Reboot
+v4.5 - Blast Off┃ Play using Rift | Play using Reboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
+v5.30 - Cube Spawning┃ Play using Reboot | Play using Carbon
+v5.41 - Cube Sinking┃ Play using Rift | Play using Reboot | Play using Carbon
+v6.21 - Butterfly┃ Play using Rift | Play using Carbon | Play using Reboot
+v6.31 - Season 7 Lead-Up | Play using Carbon
+v7.10 - New Years Event (2019) | Play using Carbon
+v7.20 - Ice King┃ Play using Rift | Play using Reboot | Play using Carbon
+v7.30 - Marshmello| Play using Rift | Play using Reboot | Play using Carbon (only Carbon has music working!)
+v7.40 - ERA Festival (Custom Event) ┃ Play using Carbon
+v8.40 - Unvaulting Lead-Up (Runes Part 1) ┃ Play using Carbon
+v8.50 - Unvaulting Lead-Up (Runes Part 2) ┃ Play using Carbon
+v8.51 - Unvaulting┃ Play using Rift | Play using Reboot | Play using Carbon
+v9.20 - Monster Spotting Event ┃ Play using Carbon
+v9.21 - Monster Spotting Event ┃ Play using Carbon
+v9.30 - Monster Spotting Event ┃ Play using Carbon
+v9.40 / v9.41 -  The Final Showdown┃ Play using Rift | Play using Reboot | Play using Carbon
+v10.40 - The End┃ Play using Rift | Play using Reboot | Play using Carbon
+v11.30 -  Star Wars┃ Play using Rift | Play using Reboot | Play using Carbon
+v11.31 - New Years Event (2020) ┃ Play using Carbon
+v12.41 - Travis Scott┃ Play using Rift | Play using Reboot | Play using Carbon
+v12.61 - Play using Rift | Play using Reboot | Play using Carbon
+v14.60 - The Devourer of Worlds┃ Play using Rift | Play using Reboot | Play using Carbon
+v15.10 - New Years Event (2021) ┃ Play using Carbon
+v16.00 - Zero Crisis┃ Carbon soon | Play using Reboot
+v17.30 - Rift Tour┃ Carbon soon | Play using Reboot
+v17.50 - Operation: Sky Fire ┃ Carbon soon | Play using reboot (Reboot a bit bugged but works)
+v18.40 - Chapter 2 Finale┃ Carbon soon | Play using reboot (Reboot a bit bugged but works)
+v19.00 -  New Years Event (2022) ┃ Play using Carbon
+v20.40 -  Collision / Collider Pulse┃ Carbon soon
+v22.40 - Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+v23.10 - New Years Event (2023) ┃ Play using Carbon
+v27.11 - The Big Bang | Play using Carbon
+v28.01 - New Years Event (2024) ┃ Play using Carbon
+v29.40 - CH5S4 Lead-Up (Sandstorm Event) ┃ Play using Carbon
+v37.51 - Simpsons Season Start | Play Using Carbon
