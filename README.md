@@ -349,7 +349,7 @@ Downloads for Archive files are capped at MEGA.
 | 38.00-CL-47291259	             | 02-11-25    	     | UE5.7                     |	N/A|
 | 38.00-CL-47722112	             | 02-11-25          | UE5.7                     |	N/A|
 | 38.10-CL-47888945	             | 11-11-25    	     | UE5.7                     |	N/A|
-| 38.11-CL-48390828	             | 19-11-25          | UE5.7                     |		[Download](https://mega.nz/folder/S1QgzKCT#I3KXVXFedK92bu6skQIBzQ)|
+| 38.11-CL-48390828	             | 19-11-25          | UE5.7                     |	[Download](https://mega.nz/folder/S1QgzKCT#I3KXVXFedK92bu6skQIBzQ)|
 
 # Season 39
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -359,72 +359,72 @@ Downloads for Archive files are capped at MEGA.
 
 
 ## EVENTS
-v3.6 - 16.2 GB | It's raining meteors | Play using Rift | Play using Reboot
+v3.6 - It's raining meteors | Play using Rift | Play using Reboot
 
-v4.5 - 23,0 GB | Blast Off┃ Play using Rift | Play using Reboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
+v4.5 - Blast Off┃ Play using Rift | Play using Reboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
 
-v5.30 - 26,2 GB | Cube Spawning┃ Play using REboot | Play using Carbon
+v5.30 - Cube Spawning┃ Play using REboot | Play using Carbon
 
-v5.41 - 26,7 GB | Cube Sinking┃ Play using Rift | Play using Reboot | Play using Carbon
+v5.41 - Cube Sinking┃ Play using Rift | Play using Reboot | Play using Carbon
 
-v6.21 - 25,1 GB | Butterfly┃ Play using Rift | Play using Carbon | Play using Reboot
+v6.21 - Butterfly┃ Play using Rift | Play using Carbon | Play using Reboot
 
-v6.31 - 33,6 GB   | Season 7 Lead-Up | Play using Carbon
+v6.31 - Season 7 Lead-Up | Play using Carbon
 
-v7.10 - 37,1 GB   | New Years Event (2019) | Play using Carbon
+v7.10 - New Years Event (2019) | Play using Carbon
 
-v7.20 - 31,7 GB | Ice King┃ Play using Rift | Play using Reboot | Play using Carbon
+v7.20 - Ice King┃ Play using Rift | Play using Reboot | Play using Carbon
 
-v7.30 - 40,4 GB | Marshmello| Play ussing Rift | Play using Reboot | Play using Carbon (only Carbon has music working!)
+v7.30 - Marshmello| Play ussing Rift | Play using Reboot | Play using Carbon (only Carbon has music working!)
 
-v7.40 - 40,6 GB   | ERA Festival (Custom Event) ┃ Play using Carbon
+v7.40 - ERA Festival (Custom Event) ┃ Play using Carbon
 
-v8.40 - 46,0 GB   | Unvaulting Lead-Up (Runes Part 1) ┃ Play using Carbon
+v8.40 - Unvaulting Lead-Up (Runes Part 1) ┃ Play using Carbon
 
-v8.50 - 47,0 GB   | Unvaulting Lead-Up (Runes Part 2) ┃ Play using Carbon
+v8.50 - Unvaulting Lead-Up (Runes Part 2) ┃ Play using Carbon
 
-v8.51 - 47,0 GB | Unvaulting┃ Play using Rift | Play using Reboot | Play using Carbon
+v8.51 - Unvaulting┃ Play using Rift | Play using Reboot | Play using Carbon
 
-v9.20 - 52,1 GB   | Monster Spotting Event ┃ Play using Carbon
+v9.20 - Monster Spotting Event ┃ Play using Carbon
 
-v9.21 - 52 GB     | Monster Spotting Event ┃ Play using Carbon
+v9.21 - Monster Spotting Event ┃ Play using Carbon
 
-v9.30 - 54,1 GB   | Monster Spotting Event ┃ PLay using Carbon
+v9.30 - Monster Spotting Event ┃ PLay using Carbon
 
-v9.40 / v9.41 - 55,1 GB | The Final Showdown┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v9.40 / v9.41 - The Final Showdown┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
-v10.40 - 60,8 GB | The End┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v10.40 - The End┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
-v11.30 - 74,2 GB | Star Wars┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v11.30 - Star Wars┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
-v11.31 - 74,3 GB  | New Years Event (2020) ┃ Play using Carbon
+v11.31 - New Years Event (2020) ┃ Play using Carbon
 
-v12.41 - 83,3 GB | Travis Scott┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v12.41 - Travis Scott┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
-v12.61 - 85,1 GB | Play ussing Rift | Play using Reboot | Play using Carbon
+v12.61 - Play ussing Rift | Play using Reboot | Play using Carbon
 
-v14.60 - 33,34 GB | The Devourer of Worlds┃ Play using Rift | Play using Reboot | Play using Carbon
+v14.60 - The Devourer of Worlds┃ Play using Rift | Play using Reboot | Play using Carbon
 
-v15.10 - 19,7 GB  | New Years Event (2021) ┃ Play using Carbon
+v15.10 - New Years Event (2021) ┃ Play using Carbon
 
-v16.50 - 38,0 GB | Zero Crisis┃ Carbon soon
+v16.50 - Zero Crisis┃ Carbon soon
 
-v17.30 - 41,3 GB | Rift Tour┃ Carbon soon
+v17.30 - Rift Tour┃ Carbon soon
 
-v17.50 - 41,7 GB | Operation: Sky Fire ┃ Carbon soon | Play using reboot (Reboot a bit bugged but works)
+v17.50 - Operation: Sky Fire ┃ Carbon soon | Play using reboot (Reboot a bit bugged but works)
 
-v18.40 - 43,1 GB | Chapter 2 Finale┃ Carbon soon
+v18.40 - Chapter 2 Finale┃ Carbon soon | Play using Reboot
 
-v19.00 - 24,8 GB  | New Years Event (2022) ┃ Play using Carbon
+v19.00 - New Years Event (2022) ┃ Play using Carbon
 
-v20.40 - 37,9 GB | Collision / Collider Pulse┃ Carbon soon
+v20.40 - Collision / Collider Pulse┃ Carbon soon
 
-v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+v22.40 - Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
 
-v23.10 - 34,8 GB  | New Years Event (2023) ┃ Play using Carbon
+v23.10 - New Years Event (2023) ┃ Play using Carbon
 
-v27.11 - 28 GB | The Big Bang | Play using Carbon
+v27.11 - The Big Bang | Play using Carbon
 
-v28.01 - 37,1 GB  | New Years Event (2024) ┃ Play using Carbon
+v28.01 - New Years Event (2024) ┃ Play using Carbon
 
-v29.40 - 53,2 GB  | CH5S4 Lead-Up (Sandstorm Event) ┃ Play using Carbon
+v29.40 - CH5S4 Lead-Up (Sandstorm Event) ┃ Play using Carbon
