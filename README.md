@@ -361,7 +361,7 @@ Downloads for Archive files are capped at MEGA.
 ## EVENTS
 v3.6 - It's raining meteors | Play using Rift | Play using Reboot
 
-v4.5 - Blast Off┃ Play using Rift | Play using Reboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
+v4.5 - Blast Off┃ Play using Rift | Play using Reboot
 
 v5.30 - Cube Spawning┃ Play using REboot | Play using Carbon
 
