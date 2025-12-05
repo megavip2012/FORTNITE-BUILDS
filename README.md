@@ -363,7 +363,7 @@ v3.6 - It's raining meteors | Play using Rift | Play using Reboot
 
 v4.5 - Blast Off┃ Play using Rift | Play using Reboot
 
-v5.30 - Cube Spawning┃ Play using REboot | Play using Carbon
+v5.30 - Cube Spawning┃ Play using Reboot | Play using Carbon
 
 v5.41 - Cube Sinking┃ Play using Rift | Play using Reboot | Play using Carbon
 
