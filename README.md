@@ -29,7 +29,7 @@ Downloads for Archive files are capped at MEGA.
 | 1.8.2-CL-3741772             	| 08-11-17             	 | UE4.16	                  |	N/A|
 | 1.9-CL-3757339               	| 14-11-17             	 | UE4.16	                  |	N/A|
 | 1.9.1-CL-3775276             	| 29-11-17             	 | UE4.16	                  |	N/A|
-| 1.10-CL-3790078	             	| 06-12-17	   	          | UE4.19	                  |	N/A|
+| 1.10-CL-3790078	             	| 06-12-17	   	          | UE4.19	                  |	[Download](https://mega.nz/folder/4VFygZbB#kojBw2gjua3w8sMUN0j6ow)|
  
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
