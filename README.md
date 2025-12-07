@@ -9,7 +9,7 @@ If you want more builds, try this other website called [FortForge Builds](https:
 
 ## Usage & Other information.
 
-Downloads for Archive files are capped at MEGA.
+Downloads for Archive files are capped at MEGA, they can be ZIP, RAR or FILE.
 
 # Downloads
 
