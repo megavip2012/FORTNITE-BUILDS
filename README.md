@@ -13,17 +13,17 @@ Downloads for Archive files are capped at MEGA.
 
 # Downloads
 
-# Pre-BattleRoyale
-| Build                  	 | Date          	 | Engine Version	    |		    Download links             |
-| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186              	|  28-02-16	          	 | UE4.12        	          |	 |
-| Cert-CL-3532353                |  20-07-17             | UE4.16                   | N/A |
-| 1.2-CL-3541083               	 |  21-07-17      	      | UE4.16	                  | N/A |
-
-# Season 0 & 1
+# Season 0
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 1.7.2-CL-3700114             	| 17-10-17             	 | UE4.16	                  |	N/A|
+| OT6.5-CL-2870186             	|  28-02-16	           	 | UE4.12        	          |	N/A |
+| Cert-CL-3532353               |  20-07-17              | UE4.16                   | N/A |
+| 1.2-CL-3541083                |  21-07-17      	       | UE4.16	                  | N/A |
+| 1.7.2-CL-3700114             	| 17-10-17             	 | UE4.16	                  |	[Download](https://mega.nz/folder/L0JGDa6A#mElh3NYuIWwXzpWU6u0P1w)|
+
+# Season 1
+| Build                   	| Date          	 | Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.8-CL-3724489               	| 25-10-17             	 | UE4.16	                  |	[Download](https://mega.nz/folder/FMt3gB4Y#Oa4qD6mJZZaZCGwB0C3CnQ)|
 | 1.8.1-CL-3729133              | 02-11-17               | UE4.16                   | N/A|
 | 1.8.2-CL-3741772             	| 08-11-17             	 | UE4.16	                  |	N/A|
