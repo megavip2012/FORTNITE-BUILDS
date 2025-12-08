@@ -26,7 +26,7 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.8-CL-3724489               	| 25-10-17             	 | UE4.16	                  |	[Download](https://mega.nz/folder/FMt3gB4Y#Oa4qD6mJZZaZCGwB0C3CnQ)|
-| 1.8.1-CL-3729133              | 02-11-17               | UE4.16                   | N/A|
+| 1.8.1-CL-3729133              | 02-11-17               | UE4.16                   | [Download](https://mega.nz/folder/WhwQjaaL#Te1_uvP8L3-mZ7jc46lkcw)|
 | 1.8.2-CL-3741772             	| 08-11-17             	 | UE4.16	                  |	N/A|
 | 1.9-CL-3757339               	| 14-11-17             	 | UE4.16	                  |	N/A|
 | 1.9.1-CL-3775276             	| 29-11-17             	 | UE4.16	                  |	[Download](https://mega.nz/folder/4ZdngK7I#FL_uGiQc5O7AZrLbuQ5kAQ)|
