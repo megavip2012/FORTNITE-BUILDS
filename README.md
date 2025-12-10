@@ -38,10 +38,10 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 | 1.11-CL-3807424              	| 14-12-17		             | UE4.19	                  |	[Download](https://mega.nz/folder/OgZ0FACb#WRJOCm-Ln87ejVhPO8arfA)|
 | 2.1.0-CL-3825894        	     | 09-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/L5wxibpZ#Wb46W44CWs5z5sWOZal--w)|
 | 2.2.0-CL-3841827             	| 18-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/SpxnFCjA#Xn3ciPkIVjxzVszZRRBrKg)|
-| 2.3.0-CL-3847564             	| 25-01-18	            	 | UE4.19	                  |	N/A|
-| 2.4.0-CL-3858292             	| 01-02-18	            	 | UE4.19	                  |	N/A|
-| 2.4.2-CL-3870737             	| 07-02-18	            	 | UE4.19	                  |	N/A|
-| 2.5.0-CL-3889387             	| 13-02-18             	 | UE4.20	                  |	N/A|
+| 2.3.0-CL-3847564             	| 25-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/zkpG0J5b#ZujbraushIs6h-FmLavqRw)|
+| 2.4.0-CL-3858292             	| 01-02-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/2p4kXBob#uGlioNbg6KkxqDXijaH03Q)|
+| 2.4.2-CL-3870737             	| 07-02-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/iowGFCRI#7FtqCcZWa1iW9iyL5gOXww)|
+| 2.5.0-CL-3889387             	| 13-02-18             	 | UE4.20	                  |	[Download](https://mega.nz/folder/n0gyyZ6D#8hL2EN0i1x7eRUeZiOA1qw)|
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
