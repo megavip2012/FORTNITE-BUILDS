@@ -46,13 +46,14 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	              	| 21-02-18	            	 | UE4.20        	          |	N/A|
-| 3.1-CL-3915963             	 	| 28-02-18             	 | UE4.20              	    | N/A|
-| 3.1-CL-3917250	              	| 28-02-18             	 | UE4.20	                  |	N/A|
-| 3.2-CL-3935073	              	| 08-03-18             	 | UE4.20 	                 |	N/A|
+| 3.0-CL-3901517	              	| 21-02-18	            	 | UE4.20        	          |	[Download](https://mega.nz/folder/TkhjyA7Z#UUdW63h4G0wJZ0i2jTtjqQ)|
+| 3.1-CL-3915963              		| 28-02-18             	 | UE4.20              	    | N/A|
+| 3.1.1-CL-3917250	            	| 28-02-18             	 | UE4.20	                  |	[Download](https://mega.nz/folder/asAkUY6Z#0nJyuL0NlaAj1rFx6oqkvA)|
+| 3.2-CL-3935073	             	 | 08-03-18             	 | UE4.20 	                 |	N/A|
+| 3.2.1-CL-3935073            	 | 08-03-18             	 | UE4.20 	                 |	N/A|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20                   | N/A|
-| 3.5-CL-4008490               	| 11-04-18             	 | UE4.20	                  | N/A|
-| 3.6-CL-4019403          	     | 24-04-18       	       | UE4.20	                  | N/A|
+| 3.5-CL-4008490              	 | 11-04-18             	 | UE4.20	                  | N/A|
+| 3.6-CL-4019403         	      | 24-04-18       	       | UE4.20	                  | N/A|
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
