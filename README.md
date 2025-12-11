@@ -358,6 +358,7 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)|
 | 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |	 [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)|
+| 39.10-CL-48971054	            | 11-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/fF0AzBzD#0J51WsZu-I1bR3a-DHoiTQ)|
 
 
 ## EVENTS
