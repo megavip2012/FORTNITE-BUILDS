@@ -327,8 +327,8 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 # Season 34
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 34.10-CL-40567068	                | 11-03-25    	 | UE5.6             	    |		N/A|
-| 34.40-CL-41753727	                | 22-04-25      | UE5.6                  |	 N/A|
+| 34.10-CL-40567068	            | 11-03-25             	 | UE5.6               	    |		[Download](https://mega.nz/folder/K9p1FJSL#Cky_WwbXFd49ZnUvFuo6fw)|
+| 34.40-CL-41753727	            | 22-04-25               | UE5.6                    |	 N/A|
 
 # Season 35
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
