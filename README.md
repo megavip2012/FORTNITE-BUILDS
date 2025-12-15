@@ -349,7 +349,7 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 | 32.00-CL-37505882             | N/A            	       | UE5.5                 	  |		N/A|
 | 32.00-CL-37770125             | N/A            	       | UE5.5                 	  |		N/A|
 | 32.10-CL-37958378             | N/A            	       | UE5.5                 	  |		N/A|
-| 32.11-CL-38202817             | 02-11-24       	       | UE5.5                 	  |		N/A|
+| 32.11-CL-38202817             | 02-11-24       	       | UE5.5                 	  |		[Download](https://mega.nz/folder/nsIGSJJS#9AafjIqIFNrgqXgBTpUhBg)|
 | 32.11-CL-38371047             | N/A            	       | UE5.5                 	  |		N/A|
 
 # Season 33
