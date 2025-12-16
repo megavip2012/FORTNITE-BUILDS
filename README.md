@@ -51,6 +51,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 3.0-CL-3901517	              	| 21-02-18	            	 | UE4.20        	          |	[Download](https://mega.nz/folder/TkhjyA7Z#UUdW63h4G0wJZ0i2jTtjqQ)|    |
 | 3.1-CL-3915963              		| 28-02-18             	 | UE4.20              	    | N/A|                                                                   |
 | 3.1.1-CL-3917250	            	| 28-02-18             	 | UE4.20	                  |	[Download](https://mega.nz/folder/asAkUY6Z#0nJyuL0NlaAj1rFx6oqkvA)|    |
+| 3.2-CL-3929794                | 08-03-18               | UE4.20                   | N/A|
 | 3.2-CL-3935073	             	 | 08-03-18             	 | UE4.20 	                 |	N/A|                                                                   |
 | 3.2.1-CL-3935073            	 | 08-03-18             	 | UE4.20 	                 |	N/A|                                                                   |
 | 3.3-CL-3942182                | 15-03-18               | UE4.20                   | N/A|                                                                   |
