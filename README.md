@@ -53,9 +53,14 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 3.1.1-CL-3917250	            	| 28-02-18             	 | UE4.20	                  |	[Download](https://mega.nz/folder/asAkUY6Z#0nJyuL0NlaAj1rFx6oqkvA)|            |
 | 3.2-CL-3929794                | 08-03-18               | UE4.20                   | N/A|                                                                           |
 | 3.2.1-CL-3935073            	 | 08-03-18             	 | UE4.20 	                 |	[Download](https://mega.nz/folder/jB1RDIQK#wlmzby5gXRN4NFDd)|                  |
-| 3.3-CL-3942182                | 15-03-18               | UE4.20                   | N/A|                                                                           |
-| 3.5-CL-4008490              	 | 11-04-18             	 | UE4.20	                  | N/A|                                                                           |
-| 3.6-CL-4019403         	      | 24-04-18       	       | UE4.20	                  | [Download](https://mega.nz/folder/rVlDjbJI#rjsQPMCpopiAqDuaDz0QfQ)| Live Event |
+| 3.3-CL-3942182                | 15-03-18               | UE4.20                   | [Download](https://mega.nz/folder/gEECCbQI#NyZWL16RP_hyDEW3m40kNQ)|            |
+| 3.3-CL-3948073                | 15-03-18               | UE4.20                   | N/A|                                                                           |
+| 3.4-CL-3968866                | 29-03-18               | UE4.20                   | N/A|                                                                           |
+| 3.4-CL-3973340                | 29-03-18               | UE4.20                   | N/A|                                                                           |
+| 3.5-CL-3994867                | 11-04-18               | UE4.20                   | N/A|                                                                           |
+| 3.5-CL-4000805                | 12-04-18               | UE4.20                   | N/A|                                                                           |
+| 3.5-CL-4008490              	 | 17-04-18             	 | UE4.20	                  | [Download](https://mega.nz/folder/tVdVEaaL#-teHOB3nHp5d5sOStmiaxw)|            |
+| 3.6-CL-4019403         	      | 22-04-18       	       | UE4.20	                  | [Download](https://mega.nz/folder/rVlDjbJI#rjsQPMCpopiAqDuaDz0QfQ)| Live Event |
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
