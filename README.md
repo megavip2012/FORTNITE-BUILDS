@@ -11,6 +11,8 @@ If you want more builds, try this other website called [FortForge Builds](https:
 
 Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FILE.
 
+All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is above season 30.10 contact us on [our Discord](https://discord.gg/sEEuufswsP), also use it to report bugs
+
 # Downloads
 
 # Season 0
@@ -337,9 +339,9 @@ Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FI
 | 31.00-CL-35447195             | N/A                  	 | UE5.5                 	  |		N/A|
 | 31.10-CL-35815136             | N/A                  	 | UE5.5            	       |		N/A|
 | 31.20-CL-36253989             | N/A                  	 | UE5.5                 	  |		N/A|
-| 31.20-CL-36348034             | N/A                  	 | UE5.5                 	  |		N/A|
+| 31.20-CL-36348034             | 16-09-24             	 | UE5.5                 	  |		[Download](https://mega.nz/folder/24RUTarL#NkHg2kLjGDWYpQPdkbCeKg)|
 | 31.30-CL-36600465             | N/A                  	 | UE5.5                 	  |		N/A|
-| 31.40-CL-36874825             | N/A                  	 | UE5.5                 	  |		N/A|
+| 31.40-CL-36874825             | 15-10-24             	 | UE5.5                 	  |		N/A|
 | 31.40-CL-37076506             | N/A                  	 | UE5.5                 	  |		N/A|
 | 31.41-CL-37324991             | 25-10-24       	       | UE5.5                 	  |		N/A|
 
