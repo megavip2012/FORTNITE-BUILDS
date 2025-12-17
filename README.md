@@ -176,8 +176,9 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 13.00-CL-N/A	                     | N/A         	 | N/A            	    |		N/A|                                                                   |
-| 13.40-CL-14113327	                | N/A         	 | N/A            	    |	N/A|                                                                   |
+| 13.00-CL-13649278	            | N/A                  	 | UE4.25            	      |		N/A|                          |
+| 13.20-CL-13777676	            | 30-06-20             	 | UE4.25              	    |		N/A|                          |
+| 13.40-CL-14113327	            | 05-08-20               | UE4.25              	    |	 N/A|                          |
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
