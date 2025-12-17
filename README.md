@@ -72,11 +72,11 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 4.2-CL-4072250          	| 14-05-18	 	      | UE4.20                          	   | [Download](https://mega.nz/folder/pF1XhZLC#UiOvFWDsYhbRTf1Wd2IhiQ)|                               | 
 | 4.3-CL-4095806          	| 30-05-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
 | 4.3-CL-4103483          	| 01-06-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
-| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20          	                   | N/A|                                                                                              |
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20         	                    |	N/A|                                                                                              |
+| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20          	                   | [Download](https://mega.nz/folder/n5o10RIQ#bETrDvRZkPp49q6ixUG4ZQ)|                               |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20         	                    |	[Download](https://mega.nz/folder/D44GyJyI#BP1urm4u_rc570gAetOG7A)|                               |
 | 4.4.x-CL-4132537        	| 19-06-18       	 | UE4.20         	                    |	N/A|    
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20         	                    | [Download](https://mega.nz/file/2J1TVTYb#LyojUFmODVtAwWswdWH0b75giGVFq_clv7ANu1Tnc3c)| Live Event |
-| 4.5-CL-4166199          	| 27-06-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
+| 4.5-CL-4166199          	| 27-06-18	 	      | UE4.20                          	   | N/A|                                                                                   Live Event | 
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
