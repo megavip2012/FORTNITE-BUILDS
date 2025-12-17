@@ -81,8 +81,8 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
-| 5.00-CL-4214610	             	| 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21        	          |		[Download](https://mega.nz/folder/P1gWmR7Z#-fcwh1Fwj9SlWWwj71-jGQ)|    |
+| 5.0.1-CL-4214610	             | 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.10-CL-4225813              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.10-CL-4240749              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.20-CL-4259375              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
