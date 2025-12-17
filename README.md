@@ -41,8 +41,10 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 2.1.0-CL-3825894        	     | 09-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/L5wxibpZ#Wb46W44CWs5z5sWOZal--w)|   |
 | 2.2.0-CL-3841827             	| 18-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/SpxnFCjA#Xn3ciPkIVjxzVszZRRBrKg)|   |
 | 2.3.0-CL-3847564             	| 25-01-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/zkpG0J5b#ZujbraushIs6h-FmLavqRw)|   |
+| 2.3.2-CL-3856999             	| 27-01-18	            	 | UE4.19	                  |	N/A|                                                                  |
 | 2.4.0-CL-3858292             	| 01-02-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/2p4kXBob#uGlioNbg6KkxqDXijaH03Q)|   |
 | 2.4.2-CL-3870737             	| 07-02-18	            	 | UE4.19	                  |	[Download](https://mega.nz/folder/iowGFCRI#7FtqCcZWa1iW9iyL5gOXww)|   |
+| 2.4.x-CL-3876086             	| 08-02-18	            	 | UE4.19	                  |	N/A|                                                                  |
 | 2.5.0-CL-3889387             	| 13-02-18             	 | UE4.20	                  |	[Download](https://mega.nz/folder/n0gyyZ6D#8hL2EN0i1x7eRUeZiOA1qw)|   |
 
 # Season 3
@@ -65,21 +67,32 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20        	                     |	N/A|                                                                                              |
-| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20        	                     |	N/A|                                                                                              |
-| 4.2-CL-4072250          	| 16-05-18	 	      | UE4.20                          	   | N/A|                                                                                              |                  
+| 4.0-CL-4039451          	| 29-04-18       	 | UE4.20        	                     |	[Download](https://mega.nz/folder/gVskQKKA#n_9PQlRUDdGF-9fzhnJPYw)|                               |
+| 4.1-CL-4053532          	| 04-05-18       	 | UE4.20        	                     |	N/A|                                                                                              |
+| 4.2-CL-4072250          	| 14-05-18	 	      | UE4.20                          	   | [Download](https://mega.nz/folder/pF1XhZLC#UiOvFWDsYhbRTf1Wd2IhiQ)|                               | 
+| 4.3-CL-4095806          	| 30-05-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
+| 4.3-CL-4103483          	| 01-06-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20          	                   | N/A|                                                                                              |
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20         	                    |	N/A|                                                                                              |
+| 4.4.x-CL-4132537        	| 19-06-18       	 | UE4.20         	                    |	N/A|    
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20         	                    | [Download](https://mega.nz/file/2J1TVTYb#LyojUFmODVtAwWswdWH0b75giGVFq_clv7ANu1Tnc3c)| Live Event |
+| 4.5-CL-4166199          	| 27-06-18	 	      | UE4.20                          	   | N/A|                                                                                              | 
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.00-CL-4214610	             	| 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
-| 5.10-CL-4240749              	| 25-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.10-CL-4225813              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.10-CL-4240749              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.20-CL-4259375              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.20-CL-4276938              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.21-CL-4281534              	| 15-08-18       	       | UE4.21         	         |  N/A|                                                                   |
 | 5.21-CL-4288479              	| 15-08-18       	       | UE4.21         	         |  N/A|                                                                   |
 | 5.30-CL-4305896              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
+| 5.30-CL-4312945              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
+| 5.30-CL-4317672              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
+| 5.40-CL-4351695         	     | 05-09-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.40-CL-4352937         	     | 05-09-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.41-CL-4363240              	| 19-09-18            	  | UE4.21        	          |		N/A| Live Event                                                        |
 
