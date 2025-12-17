@@ -133,7 +133,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		N/A|     Live Event                                                    |
 | 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		N/A|     Live Event                                                    |
 | 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |	[Download](https://mega.nz/file/6VMyzSID#42RM5vYvwnVAtvWKpCkREF4S-1go_hXEnzE7M_mU1PU)| Live Event |
-| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		N/A|                                                                   | Live Event |
+| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		N/A | Live Event |
 
 # Season X/10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
