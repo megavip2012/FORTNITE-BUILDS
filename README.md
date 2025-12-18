@@ -11,6 +11,8 @@ If you want more builds, try this other website called [FortForge Builds](https:
 
 Downloads for Archive files are capped at MEGA, they can be ZIP, 7ZIP, RAR or FILE.
 
+All builds are made for Windows
+
 All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is above season 30.10 contact us on [our Discord](https://discord.gg/sEEuufswsP), also use it to report bugs
 
 # Downloads
@@ -512,6 +514,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)| |
 | 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |	 [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)| |                                                                  
 | 39.10-CL-48971054	            | 11-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/fF0AzBzD#0J51WsZu-I1bR3a-DHoiTQ)| |
+| 39.11-CL-49241099	            | 18-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/3QUiCYoZ#WsR4rtMpOrIe52GkQGgRig)| |
 
 ## EVENTS
 v3.6 - It's raining meteors | Play using Rift | Play using Reboot
