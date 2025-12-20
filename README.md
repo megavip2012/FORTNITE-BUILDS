@@ -265,7 +265,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 19.00-CL-18049531	            | 05-12-21             	 | UE5.0            	       |		N/A| Live Event                                                        |
 | 19.01-CL-18380290	            | 14-12-21             	 | UE5.0            	       |		N/A|                                                                   |
-| 19.10-CL-18675304             | 18-01-22               | UE5.0            	       |		N/A|                                                                   |
+| 19.10-CL-18675304             | 18-01-22               | UE5.0            	       |		[Download](https://mega.nz/folder/TVshGQAR#2SWKWPqpEV-uSBrmA_u3ug)|    |
 | 19.20-CL-18775446	            | 01-02-22             	 | UE5.0            	       |		N/A|                                                                   |
 | 19.30-CL-19027703	            | 14-02-22             	 | UE5.0               	    |	 [Download](https://mega.nz/folder/rJthhJ4b#_PgNjZBeXOY1V5-l8U-kyQ)|    |
 | 19.40-CL-19215531	            | 01-03-22             	 | UE5.0               	    |		N/A|                                                                   |
