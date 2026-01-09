@@ -514,8 +514,10 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)| |
 | 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |	 [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)| |                                                                  
 | 39.10-CL-48971054	            | 11-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/fF0AzBzD#0J51WsZu-I1bR3a-DHoiTQ)| |
-| 39.11-CL-49241099	            | 18-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/3QUiCYoZ#WsR4rtMpOrIe52GkQGgRig)| |
-| 39.11-CL-49242330	            | 19-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/G15VRAgD#RqmPfQXG3D2bh6eAJEQukQ)| |
+| 39.11-CL-49241099	            | 18-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/3QUiCYoZ#WsR4rtMpOrIe52GkQGgRig)| Winter Festival |
+| 39.11-CL-49242330	            | 19-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/G15VRAgD#RqmPfQXG3D2bh6eAJEQukQ)| Winter Festival |
+| 39.11-CL-49242330	            | 26-12-25    	          |   UE5.8.0                |	 N/A                                                               | Winter Festival |
+| 39.20-CL-49564179	            | 09-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/oR0yAbwL#kzquFrbYidfgWQzYRvgHDQ)| |
 
 
 ## EVENTS
