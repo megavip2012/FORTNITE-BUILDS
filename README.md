@@ -254,11 +254,14 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 18.00-CL-17468642	            | 24-09-21             	 | UE4.26.1            	    |		N/A|                                                                   |
+| 18.00-CL-17519952	            | N/A                  	 | UE4.26.1            	    |		N/A|                                                                   |
+| 18.10-CL-17619277	            | N/A                  	 | UE4.26.1            	    |		N/A|                                                                   |
 | 18.10-CL-17661844	            | 27-09-21               | UE4.26.1                 |		N/A|                                                                   |
+| 18.20-CL-17745267	            | N/A                  	 | UE4.26.1            	    |		N/A|                                                                   |
 | 18.20 CL-17792290	            | 12-10-21               | UE4.26.1                 |		N/A|                                                                   |
-| 18.21-CL-N/A	                 | N/A                  	 | N/A            	         |		N/A|                                                                   |
+| 18.21-CL-N/A	                 | N/A                  	 | UE4.26.1                 |		N/A|                                                                   |
 | 18.30-CL-17882303             | 26-10-21             	 | UE4.26.1                 |		N/A|                                                                   |
-| 18.40-CL-18163738	            | 16-11-21             	 | UE4.26.1                 |		N/A|  Live Event                                                       |
+| 18.40-CL-18163738	            | 16-11-21             	 | UE4.26.1                 |		[Download](https://mega.nz/folder/niY2WAxT#dvD9-K7W0Lma6aEk2BB78w)| Live Event |
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
