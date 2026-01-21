@@ -91,20 +91,20 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 5.20-CL-4276938              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.21-CL-4281534              	| 15-08-18       	       | UE4.21         	         |  N/A|                                                                   |
 | 5.21.1-CL-4288479            	| 15-08-18       	       | UE4.21         	         |  [Download](https://mega.nz/folder/6AtABCiA#oLzjGqhAXtU4oFDKFkYIRQ)|    |
-| 5.30-CL-4305896              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
+| 5.30-CL-4305896              	| 23-08-18       	       | UE4.21        	          |  [Download](https://mega.nz/folder/uZcCnAZY#PXnT54G8hlPs1KsxiHcuPQ)| Live Event |
 | 5.30-CL-4312945              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
 | 5.30-CL-4317672              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
-| 5.40-CL-4351695         	     | 05-09-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.40-CL-4351695         	     | 05-09-18       	       | UE4.21        	          |		[Download](https://mega.nz/folder/CI9CnBxT#BTmfPvw-SdSM-AhmS1rM4g)|    |
 | 5.40-CL-4352937         	     | 05-09-18       	       | UE4.21        	          |		N/A|                                                                   |
-| 5.41-CL-4363240              	| 19-09-18            	  | UE4.21        	          |		N/A| Live Event                                                        |
+| 5.41-CL-4363240              	| 19-09-18            	  | UE4.21        	          |		[Download](https://mega.nz/folder/PghnyRyK#0uYcUZhMu-60XHIjzK4_WQ)| Live Event |
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 6.00-CL-4395664              	| 27-09-18             	 | UE4.21        	          |		N/A|                                                                   |
+| 6.00-CL-4395664              	| 27-09-18             	 | UE4.21        	          |		[Download](https://mega.nz/folder/jpRSEY7L#m8nxiitANTMl2Pw9Do7WwA)|    |
 | 6.00-CL-4402180      	       	| 27-09-18         	     | UE4.21            	      |		N/A|                                                                   |
 | 6.01-CL-4417689              	| 03-10-18             	 | UE4.21        	          |  N/A|                                                                   |
-| 6.01-CL-4424678		             | 03-10-18		             | UE4.21        	          |  N/A|                                                                   |
+| 6.01.1-CL-4424678		           | 03-10-18		             | UE4.21        	          |  N/A|                                                                   |
 | 6.02-CL-4442095              	| 10-10-18            		 | UE4.21            	      | 	N/A|                                                                   |
 | 6.02-CL-4461277              	| 10-10-18             	 | UE4.21        	          |  N/A|                                                                   |
 | 6.10-CL-4464155              	| 16-10-18             	 | UE4.21           	       | 	N/A|                                                                   |
