@@ -522,8 +522,19 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.11-CL-49242330	            | 26-12-25    	          |   UE5.8.0                |	 N/A                                                               | Winter Festival |
 | 39.20-CL-49564179	            | 09-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/oR0yAbwL#kzquFrbYidfgWQzYRvgHDQ)| |
 
+# Event Replays
+| Event Name                    | Date           	 |  Season	    |		    Download links             |	
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| Remix: The Finale             | 30-11-24             	 |   32.11-CL-38371047      |	 [Download](https://mega.nz/folder/iM83CYyS#lWPhkJawMVAyNi6tk0EG1g) |
+| Death Star Sabotage           | 07-06-25             	 |   35.20-CL-42911808      |	 [Download](https://mega.nz/folder/TMMz2TRZ#LR6DplgbUr1hbfDGNnRCQg) |
+| Super Showdown                | 02-08-25             	 |   36.30-CL-44367537      |	 [Download](https://mega.nz/folder/zAVRUCob#TtBU_kIRyaJa60YW6pSU3Q) |
+| Welcome, Our Alien Overlords  | 01-11-25             	 |   37.51-CL-46968237  	   |	 [Download](https://mega.nz/folder/PRMQQZzC#k2aN3ygieT3BUjkst2W2Wg) |
+| Zero Hour                     | 29-11-25             	 |   38.11-CL-48390828  	   |	 [Download](https://mega.nz/folder/7RtBhApQ#O--GccLzMPvWItdu0JA1zg) |
 
 ## EVENTS
+
+### All the live events after v30.10 only works with replay mode due to the anti-cheat upgrade
+
 v3.6 - It's raining meteors | Play using Rift | Play using Reboot
 
 v4.5 - Blast Off┃ Play using Rift | Play using Reboot
@@ -591,3 +602,7 @@ v23.10 - New Years Event (2023) ┃ Play using Carbon
 v27.11 - The Big Bang | Play using Carbon
 
 v28.01 - New Years Event (2024) ┃ Play using Carbon
+
+v37.51 - Simpsons Mini Event | Play using Carbon (Replay)
+
+v38.11 - Chapter 6 Finale | Play using Carbon (Replay)
