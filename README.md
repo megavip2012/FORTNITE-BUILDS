@@ -603,6 +603,12 @@ v27.11 - The Big Bang | Play using Carbon
 
 v28.01 - New Years Event (2024) ┃ Play using Carbon
 
+v32.11 - Remix: The Finale | Play using Carbon (Replay)
+
+v35.20 - Death Star Sabotage | Play Using Carbon (Replay)
+
+v36.30 - Super Showdown | Play using Carbon (Replay)
+
 v37.51 - Simpsons Mini Event | Play using Carbon (Replay)
 
-v38.11 - Chapter 6 Finale | Play using Carbon (Replay)
+v38.11 - Zero Hour | Play using Carbon (Replay)
