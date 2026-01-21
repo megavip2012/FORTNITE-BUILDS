@@ -390,7 +390,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 28.10-CL-30835064	            | N/A              	     | UE5.5                    |	N/A|                                                  |
 | 28.20-CL-31165234             | 07-02-24               | UE5.5                    |	N/A|                                                  |
 | 28.20-CL-31286935	            | N/A         	          | UE5.5                    |	N/A|                                                  |
-| 28.30-CL-31511038	            | 27-02-24               | UE5.5                    |	N/A|                                                  |
+| 28.30-CL-31511038	            | 27-02-24               | UE5.5                    |	[Download](https://mega.nz/folder/7Z1BUDSC#-dFdIwgSYe7YTEaRQo4Wdw)|  |
 
 # Season 29
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
