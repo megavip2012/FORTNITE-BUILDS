@@ -84,13 +84,13 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 5.00-CL-4204761  	           	| 12-07-18       	       | UE4.21        	          |		[Download](https://mega.nz/folder/P1gWmR7Z#-fcwh1Fwj9SlWWwj71-jGQ)|    |
-| 5.0.1-CL-4214610	             | 12-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.0.1-CL-4214610	             | 12-07-18       	       | UE4.21        	          |		[Download](https://mega.nz/folder/ed1D3KSB#OASbucsbROgjJM6TGYpJAA)|    |
 | 5.10-CL-4225813              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
-| 5.10-CL-4240749              	| 24-07-18       	       | UE4.21        	          |		N/A|                                                                   |
+| 5.10.1-CL-4240749            	| 24-07-18       	       | UE4.21        	          |		[Download](https://mega.nz/folder/qVFG0bjK#yrv2HL_6RBp3XhJQmq38vA)|    |
 | 5.20-CL-4259375              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.20-CL-4276938              	| 11-08-18       	       | UE4.21        	          |		N/A|                                                                   |
 | 5.21-CL-4281534              	| 15-08-18       	       | UE4.21         	         |  N/A|                                                                   |
-| 5.21-CL-4288479              	| 15-08-18       	       | UE4.21         	         |  N/A|                                                                   |
+| 5.21.1-CL-4288479            	| 15-08-18       	       | UE4.21         	         |  [Download](https://mega.nz/folder/6AtABCiA#oLzjGqhAXtU4oFDKFkYIRQ)|    |
 | 5.30-CL-4305896              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
 | 5.30-CL-4312945              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
 | 5.30-CL-4317672              	| 23-08-18       	       | UE4.21        	          |  N/A| Live Event                                                        |
