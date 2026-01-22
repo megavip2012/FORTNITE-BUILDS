@@ -103,7 +103,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 6.00-CL-4395664              	| 27-09-18             	 | UE4.21        	          |		[Download](https://mega.nz/folder/jpRSEY7L#m8nxiitANTMl2Pw9Do7WwA)|    |
 | 6.00-CL-4402180      	       	| 27-09-18         	     | UE4.21            	      |		N/A|                                                                   |
-| 6.01-CL-4417689              	| 03-10-18             	 | UE4.21        	          |  N/A|                                                                   |
+| 6.01-CL-4417689              	| 03-10-18             	 | UE4.21        	          |  [Download](https://mega.nz/folder/ThogFJBC#jj2ouUT-X7Pbbxf7fJlv0Q)|    |
 | 6.01.1-CL-4424678		           | 03-10-18		             | UE4.21        	          |  N/A|                                                                   |
 | 6.02-CL-4442095              	| 10-10-18            		 | UE4.21            	      | 	N/A|                                                                   |
 | 6.02-CL-4461277              	| 10-10-18             	 | UE4.21        	          |  N/A|                                                                   |
