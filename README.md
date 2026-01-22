@@ -521,6 +521,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.11-CL-49242330	            | 19-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/G15VRAgD#RqmPfQXG3D2bh6eAJEQukQ)| Winter Festival |
 | 39.11-CL-49242330	            | 26-12-25    	          |   UE5.8.0                |	 N/A                                                               | Winter Festival |
 | 39.20-CL-49564179	            | 09-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/oR0yAbwL#kzquFrbYidfgWQzYRvgHDQ)| |
+| 39.30-CL-49874243	            | 22-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/K4JRXKKR#pzVDlcOmGl8cx4vE4M9P6w)  | |
 
 # Event Replays
 | Event Name                    | Date           	 |  Season	    |		    Download links             |	
