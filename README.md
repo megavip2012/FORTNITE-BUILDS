@@ -464,7 +464,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 34.21-CL-41092960	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
 | 34.30-CL-41387772	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
 | 34.30-CL-41588354	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
-| 34.40-CL-41753727	            | 22-04-25               | UE5.6                    |	 N/A| Live Event                                                        |
+| 34.40-CL-41753727	            | 22-04-25               | UE5.6                    |	 [Download](https://mega.nz/folder/uvR3hZDa#7oTWIsOcnaw3XK5YnAoFQw)| Live Event |
 
 # Season 35
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
@@ -486,7 +486,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 36.10-CL-43997926	            | N/A              	   	 | UE5.6.1                  |		N/A|                                                                   |
 | 36.20-CL-43847582	            | N/A                  	 | UE5.6.1                  |		N/A|                                                                   |
 | 36.20-CL-44118662	            | N/A               	  	 | UE5.6.1                  |		N/A|                                                                   |
-| 36.30-CL-44367537	            | N/A               	  	 | UE5.6.1                  |		N/A| Live Event                                                        |
+| 36.30-CL-44367537	            | N/A               	  	 | UE5.6.1                  |		[Download](https://mega.nz/folder/QjIHWSpZ#lWsIG1VlbkxqgWtKj3irlg)| Live Event |
 
 # Season 37
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
