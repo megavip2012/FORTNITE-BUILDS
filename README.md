@@ -469,7 +469,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 35
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 35.00-CL-41994699             | 02-05-25    	          | UE5.6            	       |		N/A|                                                                   |
+| 35.00-CL-41994699             | 02-05-25    	          | UE5.6            	       |		[Download](https://mega.nz/folder/UmBDxAgB#rSCAwhdxI37RkyUt-JFAZA)|    |
 | 35.00-CL-42223143             | N/A                  	 | UE5.6            	       |		N/A|                                                                   |
 | 35.10-CL-42476511             | N/A                  	 | UE5.6            	       |		N/A|                                                                   |
 | 35.10-CL-42696140             | N/A                  	 | UE5.6            	       |		N/A|                                                                   |
