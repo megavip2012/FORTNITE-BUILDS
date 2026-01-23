@@ -576,9 +576,9 @@ v11.30 - Star Wars┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
 v11.31 - New Years Event (2020) ┃ Play using Carbon
 
-v12.41 - Travis Scott┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v12.41 - Travis Scott ┃ Play ussing Rift | Play using Reboot | Play using Carbon
 
-v12.61 - Play ussing Rift | Play using Reboot | Play using Carbon
+v12.61 - The Device | Play ussing Rift | Play using Reboot | Play using Carbon
 
 v14.60 - The Devourer of Worlds┃ Play using Rift | Play using Reboot | Play using Carbon
 
