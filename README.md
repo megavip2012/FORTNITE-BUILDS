@@ -464,7 +464,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 34.21-CL-41092960	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
 | 34.30-CL-41387772	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
 | 34.30-CL-41588354	            | N/A                    | UE5.6                    |	 N/A|                                                                   |
-| 34.40-CL-41753727	            | 22-04-25               | UE5.6                    |	 N/A|                                                                   |
+| 34.40-CL-41753727	            | 22-04-25               | UE5.6                    |	 N/A| Live Event                                                        |
 
 # Season 35
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
@@ -501,7 +501,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 37.31-CL-46047957	            | N/A                  	 | UE5.7.0                  |		N/A|                                                                   |
 | 37.40-CL-46295673	            | N/A    	               | UE5.7.0                  |		N/A|                                                                   |
 | 37.50-CL-46578011	            | N/A                  	 | UE5.7.0                  |		N/A|                                                                   |
-| 37.51-CL-46968237	            | 22-10-25             	 | UE5.7.0                  |		N/A|    Live Event                                                     |
+| 37.51-CL-46968237	            | 22-10-25             	 | UE5.7.0                  |		[Download](https://mega.nz/folder/7NslXAgQ#z2jKWsVvu-RXQ78aOt9ARw)|    Live Event |
 
 # Season 38
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
@@ -605,6 +605,8 @@ v27.11 - The Big Bang | Play using Carbon
 v28.01 - New Years Event (2024) ┃ Play using Carbon
 
 v32.11 - Remix: The Finale | Play using Carbon (Replay)
+
+v34.50 - Daigo's Fate | Play using Carbon (Replay)
 
 v35.20 - Death Star Sabotage | Play Using Carbon (Replay)
 
