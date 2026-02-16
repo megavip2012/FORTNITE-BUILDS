@@ -539,6 +539,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Super Showdown                | 02-08-25             	 |   36.30-CL-44367537      |	 [Download](https://mega.nz/folder/zAVRUCob#TtBU_kIRyaJa60YW6pSU3Q) |
 | Welcome, Our Alien Overlords  | 01-11-25             	 |   37.51-CL-46968237  	   |	 [Download](https://mega.nz/folder/PRMQQZzC#k2aN3ygieT3BUjkst2W2Wg) |
 | Zero Hour                     | 29-11-25             	 |   38.11-CL-48390828  	   |	 [Download](https://mega.nz/folder/7RtBhApQ#O--GccLzMPvWItdu0JA1zg) |
+| Ice King OG MODE EVENT        | 15-02-26               |   39.40-CL-50577083      |  [Download](https://mega.nz/folder/H4ZSiIRT#pjzuDtFdixWY_nS8O7Ok6Q) |
 
 ## EVENTS
 
