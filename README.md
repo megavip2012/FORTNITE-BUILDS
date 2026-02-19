@@ -529,7 +529,8 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.30-CL-49874243	            | 22-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/a8IlhARa#mml1v_E--VoyLHryjWZzmg)| |
 | 39.30-CL-50141518	            | 26-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/q54HADZS#wOL5rrIHKmUzvRNORm14GQ)| |
 | 39.40-CL-50341043	            | 05-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/x2RCiABK#J1B_BWiuwZm6D9dmwiIIvg)| |
-| 39.40-CL-50577083	            | 07-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/vwJyXIpA#PXr10FYySe2iAOKEER8Dig)| |
+| 39.40-CL-50577083	            | 07-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/vwJyXIpA#PXr10FYySe2iAOKEER8Dig)| Live Event |
+| 39.50-CL-50854790             | 19-02-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/6kA0TAgb#BwZYnriD0tI4B4vlsbUekg)| |
 
 # Event Replays
 | Event Name                    | Date           	 |  Season	    |		    Download links             |	
