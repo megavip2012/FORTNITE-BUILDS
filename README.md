@@ -625,3 +625,5 @@ v36.30 - Super Showdown | Play using Carbon (Replay)
 v37.51 - Simpsons Mini Event | Play using Carbon (Replay)
 
 v38.11 - Zero Hour | Play using Carbon (Replay)
+
+v39.40 - Ice King OG Mode Event | Play Using Carbon (Replay)
