@@ -517,22 +517,22 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 38.11-CL-48390828	             | 19-11-25          | UE5.7                     |	[Download](https://mega.nz/folder/S1QgzKCT#I3KXVXFedK92bu6skQIBzQ)| Live Event |
 
 # Season 39
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Password                   |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
-| 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)| |
-| 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |	 [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)| |                                                                  
-| 39.10-CL-48971054	            | 11-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/fF0AzBzD#0J51WsZu-I1bR3a-DHoiTQ)| |
-| 39.11-CL-49241099	            | 18-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/3QUiCYoZ#WsR4rtMpOrIe52GkQGgRig)| |
-| 39.11-CL-49242330	            | 19-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/G15VRAgD#RqmPfQXG3D2bh6eAJEQukQ)| |
-| 39.11-CL-49242330	            | 26-12-25    	          |   UE5.8.0                |	 N/A                                                               | |
-| 39.20-CL-49564179	            | 09-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/oR0yAbwL#kzquFrbYidfgWQzYRvgHDQ)| |
-| 39.30-CL-49874243	            | 22-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/a8IlhARa#mml1v_E--VoyLHryjWZzmg)| |
-| 39.30-CL-50141518	            | 26-01-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/q54HADZS#wOL5rrIHKmUzvRNORm14GQ)| |
-| 39.40-CL-50341043	            | 05-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/x2RCiABK#J1B_BWiuwZm6D9dmwiIIvg)| |
-| 39.40-CL-50577083	            | 07-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/vwJyXIpA#PXr10FYySe2iAOKEER8Dig)| |
-| 39.50-CL-50854790             | 19-02-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/6kA0TAgb#BwZYnriD0tI4B4vlsbUekg)| |
-| 39.50-CL-51043566             | 02-03-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/O2oQUBbD#xk7A_yrK_qw2lnw0q0nlXg)| |
-| 39.51-CL-51287198             | 05-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/kZqbtA)                     | PASSWORD = werinac253@ghost.com |
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| 39.00-CL-48444883             | 29-11-25             	 |   UE5.8.0                |	 [Download](https://mega.nz/folder/nxwGQCDT#hEdBsbGG7Ux9yResL_o0xA)| | |
+| 39.00-CL-48801071             | 03-12-25             	 |   UE5.8.0         	      |  [Download](https://mega.nz/folder/fhYBFDRK#XqwjvFvuehObb0E3wyi0Ew)| | |                                                                
+| 39.10-CL-48971054	            | 11-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/fF0AzBzD#0J51WsZu-I1bR3a-DHoiTQ)| | |
+| 39.11-CL-49241099	            | 18-12-25    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/3QUiCYoZ#WsR4rtMpOrIe52GkQGgRig)| | |
+| 39.11-CL-49242330	            | 19-12-25    	          |   UE5.8.0                |  [Download](https://mega.nz/folder/G15VRAgD#RqmPfQXG3D2bh6eAJEQukQ)| | |
+| 39.11-CL-49242330	            | 26-12-25    	          |   UE5.8.0                |	  N/A                                                               | | |
+| 39.20-CL-49564179	            | 09-01-26    	          |   UE5.8.0                |  [Download](https://mega.nz/folder/oR0yAbwL#kzquFrbYidfgWQzYRvgHDQ)| | |
+| 39.30-CL-49874243	            | 22-01-26    	          |   UE5.8.0                |  [Download](https://mega.nz/folder/a8IlhARa#mml1v_E--VoyLHryjWZzmg)| | |
+| 39.30-CL-50141518	            | 26-01-26    	          |   UE5.8.0                |  [Download](https://mega.nz/folder/q54HADZS#wOL5rrIHKmUzvRNORm14GQ)| | |
+| 39.40-CL-50341043	            | 05-02-26    	          |   UE5.8.0                |	 [Download](https://mega.nz/folder/x2RCiABK#J1B_BWiuwZm6D9dmwiIIvg)| | |
+| 39.40-CL-50577083	            | 07-02-26    	          |   UE5.8.0                |  [Download](https://mega.nz/folder/vwJyXIpA#PXr10FYySe2iAOKEER8Dig)| | |
+| 39.50-CL-50854790             | 19-02-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/6kA0TAgb#BwZYnriD0tI4B4vlsbUekg)| | |
+| 39.50-CL-51043566             | 02-03-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/O2oQUBbD#xk7A_yrK_qw2lnw0q0nlXg)| | |
+| 39.51-CL-51287198             | 05-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/kZqbtA)          | | PASSWORD = werinac253@ghost.com |
 
 # Event Replays
 | Event Name                    | Date           	 |  Season	    |		    Download links             |	
