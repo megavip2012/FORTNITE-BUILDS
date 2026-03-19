@@ -534,6 +534,11 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 39.50-CL-51043566             | 02-03-26               |   UE5.8.0                |  [Download](https://mega.nz/folder/O2oQUBbD#xk7A_yrK_qw2lnw0q0nlXg)| | |
 | 39.51-CL-51287198             | 05-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/kZqbtA)          | | PASSWORD = werinac253@ghost.com |
 
+# Season 40
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| 40.00-CL-51746096             | 19-03-26               |   UE5.8.0                |  N/A                           |                                | PASSWORD = jebaxo7024@ghost.com|
+
 # Event Replays
 | Event Name                    | Date           	 |  Season	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
