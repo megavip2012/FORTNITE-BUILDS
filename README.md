@@ -540,7 +540,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 40.00-CL-51746096             | 19-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/xeLdqm)         |                                | PASSWORD = jebaxo7024@ghost.com|
 | 40.00-CL-51995682             | 20-03-26               |   UE5.8.0                |  N/A                  |                                |  |
 
-# Event Replays
+# Event Replays (DISCONTINUED)
 | Event Name                    | Date           	 |  Season	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | Remix: The Finale             | 30-11-24             	 |   32.11-CL-38371047      |	 [Download](https://mega.nz/folder/iM83CYyS#lWPhkJawMVAyNi6tk0EG1g) |
@@ -551,8 +551,6 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Ice King OG MODE EVENT        | 15-02-26               |   39.40-CL-50577083      |  [Download](https://mega.nz/folder/H4ZSiIRT#pjzuDtFdixWY_nS8O7Ok6Q) |
 
 ## EVENTS
-
-### All the live events after v30.10 only works with replay mode due to the anti-cheat upgrade
 
 v3.6 - It's raining meteors | Play using Rift | Play using Reboot
 
@@ -622,16 +620,16 @@ v27.11 - The Big Bang | Play using Carbon
 
 v28.01 - New Years Event (2024) ┃ Play using Carbon
 
-v32.11 - Remix: The Finale | Play using Carbon (Replay)
+v32.11 - Remix: The Finale | Play using Carbon
 
-v34.50 - Daigo's Fate | Play using Carbon (Replay)
+v34.50 - Daigo's Fate | Play using Carbon
 
-v35.20 - Death Star Sabotage | Play Using Carbon (Replay)
+v35.20 - Death Star Sabotage | Play Using Carbon
 
-v36.30 - Super Showdown | Play using Carbon (Replay)
+v36.30 - Super Showdown | Play using Carbon
 
-v37.51 - Simpsons Mini Event | Play using Carbon (Replay)
+v37.51 - Simpsons Mini Event | Play using Carbon
 
-v38.11 - Zero Hour | Play using Carbon (Replay)
+v38.11 - Zero Hour | Play using Carbon
 
-v39.40 - Ice King OG Mode Event | Play Using Carbon (Replay)
+v39.40 - Ice King OG Mode Event | Play Using Carbon
