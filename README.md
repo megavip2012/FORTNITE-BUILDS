@@ -9,7 +9,7 @@ If you want more builds, try this other website called [FortForge Builds](https:
 
 ## Usage & Other information.
 
-Downloads for Archive files are capped at MEGA and BLOMP, they can be ZIP, 7ZIP, RAR or FILE.
+Downloads for Archive files are capped at MEGA, BLOMP and Internet Archive, they can be ZIP, 7ZIP, RAR or FILE.
 
 All builds are made for Windows
 
@@ -537,18 +537,8 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 40
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| 40.00-CL-51746096             | 19-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/xeLdqm)         |                                | PASSWORD = jebaxo7024@ghost.com|
-| 40.00-CL-51995682             | 20-03-26               |   UE5.8.0                |  N/A                  |                                |  |
-
-# Event Replays (DISCONTINUED)
-| Event Name                    | Date           	 |  Season	    |		    Download links             |	
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| Remix: The Finale             | 30-11-24             	 |   32.11-CL-38371047      |	 [Download](https://mega.nz/folder/iM83CYyS#lWPhkJawMVAyNi6tk0EG1g) |
-| Death Star Sabotage           | 07-06-25             	 |   35.20-CL-42911808      |	 [Download](https://mega.nz/folder/TMMz2TRZ#LR6DplgbUr1hbfDGNnRCQg) |
-| Super Showdown                | 02-08-25             	 |   36.30-CL-44367537      |	 [Download](https://mega.nz/folder/zAVRUCob#TtBU_kIRyaJa60YW6pSU3Q) |
-| Welcome, Our Alien Overlords  | 01-11-25             	 |   37.51-CL-46968237  	   |	 [Download](https://mega.nz/folder/PRMQQZzC#k2aN3ygieT3BUjkst2W2Wg) |
-| Zero Hour                     | 29-11-25             	 |   38.11-CL-48390828  	   |	 [Download](https://mega.nz/folder/7RtBhApQ#O--GccLzMPvWItdu0JA1zg) |
-| Ice King OG MODE EVENT        | 15-02-26               |   39.40-CL-50577083      |  [Download](https://mega.nz/folder/H4ZSiIRT#pjzuDtFdixWY_nS8O7Ok6Q) |
+| 40.00-CL-51746096             | 19-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/xeLdqm)                  |                                | PASSWORD = jebaxo7024@ghost.com|
+| 40.00-CL-51995682             | 20-03-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202603)        |                                |                                |
 
 ## EVENTS
 
