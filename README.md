@@ -540,6 +540,10 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 40.00-CL-51746096             | 19-03-26               |   UE5.8.0                |  [Download](https://sharedby.blomp.com/xeLdqm)                  |                                | PASSWORD = jebaxo7024@ghost.com|
 | 40.00-CL-51995682             | 20-03-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202603)        |                                |                                |
 | 40.10-CL-52157884             | 01-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
+| 40.20-CL-52463280             | 16-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
+| 40.20-CL-52900211             | 21-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
+| 40.30-CL-53093531             | 30-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
+
 
 ## EVENTS
 
