@@ -543,6 +543,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 40.20-CL-52463280             | 16-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
 | 40.20-CL-52900211             | 21-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
 | 40.30-CL-53093531             | 30-04-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
+| 40.40-CL-53683214             | 14-05-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
 
 
 ## EVENTS
