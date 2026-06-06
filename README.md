@@ -5,7 +5,7 @@ Thanks to simplybk for helping with the design.
 
 If you want a better inteface for the downloads, go to [our website](https://sites.google.com/view/allfortnitegameversions/p%C3%A1gina-inicial)!
 
-If you want more builds, try this other website called [FortForge Builds](https://builds.fortforge.dev/builds)
+If you want more builds, try these other websites: [FortForge Builds (DISABLED)](https://builds.fortforge.dev/builds) , [Carbon Builds](https://builds.cbn.lol/builds)
 
 ## Usage & Other information.
 
@@ -546,6 +546,11 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 40.40-CL-53683214             | 14-05-26               |   UE5.8.0                |  N/A                                                            |                                |                                |
 | 40.41-CL-54326946             | 28-05-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202605)        |   Live Event                   |                                |
 
+# Season 41
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                | PASSWORD = jebaxo7024@ghost.com|
+
 
 ## EVENTS
 
@@ -630,3 +635,5 @@ v37.51 - Simpsons Mini Event | Play using Carbon
 v38.11 - Zero Hour | Play using Carbon
 
 v39.40 - Ice King OG Mode Event | Play Using Carbon
+
+v40.41 - Shattered | Play using Carbon
