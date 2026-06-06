@@ -549,7 +549,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 # Season 41
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                | PASSWORD = jebaxo7024@ghost.com|
+| 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                | |
 
 
 ## EVENTS
