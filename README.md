@@ -549,10 +549,10 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 40.41-CL-54326946             | 28-05-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202605)        |   Live Event                   |                                |
 
 # Season 41
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                | |
-| 41.00-CL-54867060             | 08-06-26               |   UE5.8.0                |  N/A                                                            |                                | |
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                |
+| 41.00-CL-54867060             | 08-06-26               |   UE5.8.0                |  N/A                                                            |                                |
 
 
 ## EVENTS
