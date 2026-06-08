@@ -7,6 +7,8 @@ If you want a better inteface for the downloads, go to [our website](https://sit
 
 If you want more builds, try these other websites: [FortForge Builds (DISABLED)](https://builds.fortforge.dev/builds) , [Carbon Builds](https://builds.cbn.lol/builds)
 
+If you want to see all the builds information with more details, go to [egdata.app](https://egdata.app/offers/09176f4ff7564bbbb499bbe20bd6348f)
+
 ## Usage & Other information.
 
 Downloads for Archive files are capped at MEGA, BLOMP and Internet Archive, they can be ZIP, 7ZIP, RAR or FILE.
@@ -550,6 +552,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |		    Password                   |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
 | 41.00-CL-54618515             | 06-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                | |
+| 41.00-CL-54867060             | 08-06-26               |   UE5.8.0                |  N/A                                                            |                                | |
 
 
 ## EVENTS
