@@ -553,7 +553,7 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 41.00-CL-54618515             | 05-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202606)        |                                |
 | 41.00-CL-54867060             | 07-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_20260609)      |                                |
-| 41.00-CL-54872343             | 09-06-26               |   UE5.8.0                |  N/A                                                            |                                |
+| 41.00-CL-54872343             | 09-06-26               |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_20260612)      |                                |
 
 
 ## EVENTS
