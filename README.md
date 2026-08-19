@@ -646,3 +646,5 @@ v38.11 - Zero Hour | Play using Carbon
 v39.40 - Ice King OG Mode Event | Play Using Carbon
 
 v40.41 - Shattered | Play using Carbon
+
+v41.30 - Unstable | Play using Carbon
