@@ -5,7 +5,7 @@ Thanks to simplybk for helping with the design.
 
 If you want a better inteface for the downloads, go to [our website](https://sites.google.com/view/allfortnitegameversions/p%C3%A1gina-inicial)!
 
-If you want more builds, try these other websites: [FortForge Builds (DISABLED)](https://builds.fortforge.dev/builds) , [Carbon Builds](https://builds.cbn.lol/builds)
+If you want more builds, try these other websites: [FortForge Builds](https://fortforge.co.uk/builds) , [Carbon Builds](https://builds.cbn.lol/builds)
 
 If you want to see all the builds information with more details, go to [egdata.app](https://egdata.app/offers/09176f4ff7564bbbb499bbe20bd6348f)
 
