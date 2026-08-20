@@ -560,6 +560,11 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | 41.30-CL-55979764             | N/A                    |   UE5.8.0                |  N/A                                                            |                                |
 | 41.30-CL-56430492             | N/A                    |   UE5.8.0                |  [Download](https://archive.org/details/fortnite_202608)        |   Live Event                   |
 
+# Season 42
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
+| 42.00-CL-56878558             | 20-08-26               |   UE5.8.0                |  N/A                           |                                |
+
 
 ## EVENTS
 
