@@ -564,6 +564,11 @@ All builds 30+ have UEFN, if you find a build that doesn't have the UEFN and is 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		    Extra Features             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | ------------------------------ |
 | 42.00-CL-56878558             | 20-08-26               |   UE6.0.0                |  [Download](https://archive.org/details/fortnite_20260821)      |                                |
+| 42.00-CL-57316517             | 26-08-26               |   UE6.0.0                |  N/A                                                            |                                |
+| 42.10-CL-57566230             | 03-09-26               |   UE6.0.0                |  N/A                                                            |                                |
+| 42.10-CL-57819926             | 06-09-26               |   UE6.0.0                |  N/A                                                            |                                |
+| 42.20-CL-58011042             | 17-09-26               |   UE6.0.0                |  N/A                                                            |                                |
+| 42.30-CL-58557680             | 02-10-26               |   UE6.0.0                |  N/A                                                            |                                |
 
 
 ## EVENTS
